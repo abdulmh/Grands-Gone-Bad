@@ -1,0 +1,163 @@
+@charset "utf-8";
+.fluid {
+    background-color: #673B24;
+}
+.h2 {
+    font-family: iceberg;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    color: #FFFFFF;
+    text-align: center;
+    margin-bottom: 25px;
+}
+.table {
+    margin-left: 93px;
+    margin-right: 93px;
+    border-style: hidden;
+    border-color: #673B24;
+    margin-top: -19px;
+}
+.table_rec {
+    margin-left: 180px;
+    margin-right: 180px;
+    border-style: hidden;
+    border-color: #673B24;
+    margin-top: -19px;
+}
+
+.img_float {
+    border-left: thin groove #FF5819;
+    border-right: thin groove #FF5819;
+    border-bottom: thin groove #FFFFFF;
+    border-top: thin groove #FF5819;
+    margin-right: 35px;
+    margin-left: 35px;
+    margin-top: 30px;
+    margin-bottom: -95px;
+}
+.menu_bar {
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: adamina;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+}
+.bar_settings {
+    color: #FBFBFB;
+    text-align: center;
+}
+.h1 {
+    color: #FF6E00;
+    text-align: center;
+    font-size: 109px;
+    margin-top: -20px;
+    font-family: bebas-neue;
+    font-style: normal;
+    font-weight: 400;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 13px;
+    float: right;
+    margin-bottom: 5px;
+}
+.body_paragraph {
+    right: auto;
+    color: #FFFFFF;
+    font-family: acme;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    margin-left: 2px;
+    margin-top: 2px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    text-align: left;
+
+}
+.recipes_font {
+    right: auto;
+    color: #FFFFFF;
+    font-family: acme;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    margin-left: 2px;
+    margin-top: 2px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    text-align: center;
+
+}
+
+
+.coloredbox {
+    background-color: #673B24;
+    height: 1000%;
+    width: 1145px;
+    right: 10px;
+    left: 10px;
+    margin-bottom: -10px;
+    margin-left: 150px;
+    margin-top: -10px;
+    margin-right: 200px;
+}
+.h3 {
+    font-family: iceberg;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    font-variant: normal;
+    text-align: left;
+    color: #FFFFFF;
+    margin-top: -49px;
+}
+#wheatGrem {
+    float: left;
+    margin-right: 38px;
+}
+.table_header {
+    text-align: right;
+    font-size: 40px;
+    font-family: acme;
+    font-style: normal;
+    font-weight: 400;
+    color: #FFFFFF;
+    margin-left: 200px;
+    margin-right: 200px;
+    float: right;
+}
+.resources_img {
+    margin-top: -300px;
+    margin-left: 276px;
+
+}
+.form_font {
+    color: #FF7E00;
+    font-family: amaranth;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+}
+.contact_form {
+    margin-top: 50px;
+
+
+
+}
+.symptoms_table  {
+	
+    margin-left: 05px;
+    margin-right: 20px;
+}
+th, td {
+    padding: 15px;
+    color: #FF7E00;
+    ;
+}
+.recipes {
+    margin-left: 75px;
+    margin-right: 75px;
+    border: 6px groove #FF7E00;
+}
